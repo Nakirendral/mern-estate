@@ -1,6 +1,9 @@
 import { FaSearch } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
+// Explore more tailwind css syntax
+
+
 export default function Header() {
   return (
     <header className='bg-slate-200 shadow-md'>
